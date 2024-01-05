@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# Wing Watch Overview
+
+## What's this purpose of this project?
+
+This project is a new work in progress, started in January 2024. It will be a web app that will allow users to view and filter historical harvest data pulled from ODFW's Sauvie Island daily harvest summary data.
+
+More coming soon!
+
+### How does it work?
+
+### Demo
+
+## Tech Stack
+
+## Problems Solved
+
+## Lessons Learned
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +86,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-->
